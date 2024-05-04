@@ -1,1 +1,1 @@
-# GraphQL-server
+# GraphQL-Server
